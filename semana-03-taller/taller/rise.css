@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+
+
+#notebook_panel #notebook-container{
+  font-family: 'Fira Sans', sans-serif !important;
+}
+
+#notebook_panel h1,
+#notebook_panel h2,
+#notebook_panel h3 {
+  font-family: 'Fira Sans', sans-serif !important;
+}
+
+#notebook_panel h1,
+#notebook_panel h2,
+#notebook_panel h3,
+#notebook_panel .rendered_html pre, 
+#notebook_panel .rendered_html code,
+#notebook_panel strong
+{
+  color: #FF5AB3;
+}
